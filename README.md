@@ -6,8 +6,8 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **C**
-- 🔗 Connect with me **https://www.linkedin.com/in/sachin-yadav-1732b8227/**
-- 📫 How to reach me **sachin3145@outlook.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/sachin-yadav-1732b8227/**
+- 📫 Email: **sachin3145@outlook.com**
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact **I like to hangout with my friends**
 
