@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **DSA in C++**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/sachin3145**
 - 📫 Email: **sachin3145@outlook.com**
 - 😄 Pronouns:  He/Him
@@ -14,6 +14,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.icons8.com/color/48/40C057/c-programming.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
