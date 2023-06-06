@@ -44,7 +44,7 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sachin3145&bg_color=000000&color=ffffff&line=373937&point=40ff3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin3145&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
