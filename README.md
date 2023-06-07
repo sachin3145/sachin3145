@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **DSA in C++**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/sachin3145**
 - 📫 Email: **sachin3145@outlook.com**
-- 😄 Pronouns:  He/Him
-- ⚡ Fun fact **I like to hangout with my friends**
 
 ## 🚀 Languages and Tools:
 
