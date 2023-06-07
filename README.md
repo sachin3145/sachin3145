@@ -12,20 +12,17 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.icons8.com/color/48/40C057/c-programming.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png"/> </a> 
-    <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> </a>
-    <a href="https://www.json.org/" target="_blank"> <img src="https://img.icons8.com/color/48/json--v1.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/mongodb.png"/> </a>
-    <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express-js.png"/> </a>
-    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png" /> </a>
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a>
-<!--     <a href="" target="_blank"> <img src=""/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.icons8.com/color/50/40C057/c-programming.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
+    <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.icons8.com/color/50/css3.png"/> </a> 
+    <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/ffd600/javascript-logo.png"/> </a>
+    <a href="https://www.json.org/" target="_blank"> <img src="https://img.icons8.com/ios/50/FAB005/json.png"/> </a>
+    <a href="https://www.google.com/search?q=MERN" target="_blank"> <img width="128px" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/python.png"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"/> </a>
+<!--     
     <a href="" target="_blank"> <img src=""/> </a>
     <a href="" target="_blank"> <img src=""/> </a> -->
 </p>
