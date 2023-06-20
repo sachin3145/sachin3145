@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently exploring **DSA in C++** along with **FullStack Web Development**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/sachin3145**
-- 📫 Email: **sachin3145@outlook.com**
+- 📫 Email: **sachiny8376@gmail.com**
 
 ## 🚀 Languages and Tools:
 
