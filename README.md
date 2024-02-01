@@ -1,63 +1,20 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin</h1>
-<h3 align="center">I'm an aspiring Software Engineer from India.</h3>
+# 💫 About Me:
+🌱 I’m currently exploring DSA in C++ along with System Design.<br>👯 I’m looking to collaborate on anything fun!<br>💻 Personal Website: **https://sachin3145.vercel.app**
 
 
-## 🙋‍♂️ About Me
-- 🌱 I’m currently exploring **DSA in C++** along with **FullStack Web Development**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/sachin3145**
-- 📫 Email: **sachiny8376@gmail.com**
-- 💻 Personal Website: **https://sachin3145.vercel.app**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.icons8.com/color/50/40C057/c-programming.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
-    <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.icons8.com/color/50/css3.png"/> </a> 
-    <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/ffd600/javascript-logo.png"/> </a>
-    <a href="https://www.json.org/" target="_blank"> <img src="https://img.icons8.com/ios/50/FAB005/json.png"/> </a>
-    <a href="https://www.google.com/search?q=MERN" target="_blank"> <img width="128px" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/python.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"/> </a>
-<!--     
-    <a href="" target="_blank"> <img src=""/> </a>
-    <a href="" target="_blank"> <img src=""/> </a> -->
-</p>
+## 🌐 Socials:
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sachiny8376@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin3145) 
+[![LeetCode user sachin3145](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsachin3145&logo=leetcode&logoColor=yellow)](https://leetcode.com/sachin3145/)
 
 
-<br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-<p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sachin Yadav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin3145&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sachin3145&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sachin3145&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin3145&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sachin Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin3145&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sachin Yadav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin3145&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin3145&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-<br/>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sachin3145">
-</a>
-<a href="https://github.com/sachin3145?tab=followers"><img src="https://img.shields.io/github/followers/sachin3145?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+[![](https://visitcount.itsvg.in/api?id=sachin3145&icon=0&color=0)](https://visitcount.itsvg.in)
