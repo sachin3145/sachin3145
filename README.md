@@ -1,102 +1,156 @@
 # Sachin Yadav
 
-R&D Engineer working on resource-constrained, performance-critical systems.
+Systems Software Engineer focused on Linux, C++, networking, and reliability.
 
-Currently building embedded Linux software for telecom access networks at Tejas Networks.
-Primary interests include systems programming, operating systems, networking, and reliability.
-I also have experience building production web systems where appropriate.
+Currently building Linux-based embedded networking software for carrier-grade telecom products at Tejas Networks. My interests lie in systems programming, operating systems, networking, performance engineering, and distributed systems.
 
 ---
 
-## Focus Areas
+## About Me
 
-- Systems programming in C/C++
-- Embedded Linux (processes, IPC, daemons, service lifecycle)
-- Telecom access networks (GPON)
-- Debugging, performance analysis, and fault isolation
-- Linux tooling (gdb, logging, shell)
+* Building embedded networking software in C/C++ on Linux
+* Interested in operating systems, networking, and distributed systems
+* Enjoy debugging complex production issues and improving system reliability
+* Experienced with both low-level systems development and production backend infrastructure
+
+---
+
+## Core Areas
+
+* Systems Programming
+* Linux Internals
+* Embedded Linux
+* Networking
+* Distributed Systems
+* Performance Optimization
+* Reliability Engineering
+* System-Level Debugging
 
 ---
 
 ## Technical Skills
 
-**Systems & OS**
-- C, C++, Embedded Linux
-- Linux system programming
-- Processes, signals, IPC, daemons
+### Systems & Operating Systems
 
-**Networking & Infrastructure**
-- TCP/IP fundamentals
-- Linux networking
-- Docker, Docker Compose
-- CI/CD (GitHub Actions)
-- Nginx, VPS deployment
+* C
+* C++
+* Python
+* Embedded Linux
+* Linux System Programming
+* Processes
+* Threads
+* Signals
+* IPC
+* Sockets
+* Daemons
+* systemd / Service Lifecycle
 
-**Application Development**
-- Python, JavaScript
-- Node.js, Express.js
-- REST APIs
-- React, Next.js (used when needed)
+### Debugging & Reliability
 
-**Tooling**
-- Git, Bash
-- gdb, Linux CLI
-- MySQL
+* gdb
+* Core Dump Analysis
+* System Logging
+* Performance Debugging
+* Memory Analysis
+* Root Cause Analysis
+
+### Infrastructure & Tooling
+
+* GNU Make
+* Git
+* Bash
+* Linux CLI
+* Docker
+* Docker Compose
+* GitHub Actions
+* Nginx
+
+### Networking
+
+* TCP/IP
+* Socket Programming
+* Telecom Access Networks (GPON)
 
 ---
 
 ## Experience
 
-**Research & Development Engineer — Tejas Networks**  
-Gurugram, India | July 2025 – Present  
-- Design and implement performance-critical C/C++ components for GPON access network software on embedded Linux.
-- Develop and extend system modules within the access network stack.
-- Debug and maintain Linux daemons involving IPC, process lifecycle, and service orchestration.
-- Analyze runtime behavior and memory usage to improve reliability and fault recovery.
-- Perform root-cause analysis using gdb and Linux logging tools.
+### Research & Development Engineer — Tejas Networks
 
-**Research & Development Engineer Intern — Tejas Networks**  
-Bengaluru, India | Jan 2025 – July 2025  
-- Worked on telecom access network software and device-level system components.
-- Automated network device test cases using Python and internal frameworks.
-- Used Spirent traffic generators to validate behavior under load and fault scenarios.
-- Gained exposure to hardware–software interaction in telecom-grade systems.
+**July 2025 – Present | Gurugram, India**
 
-**Software Development Engineer Intern — Realty Experts Group**  
-Remote | Mar 2024 – Dec 2024  
-- Developed backend services for a production web platform.
-- Containerized services using Docker and automated deployments via CI/CD.
-- Configured Nginx reverse proxy and SSL on VPS infrastructure.
+* Design and develop system-level C/C++ components for Linux-based embedded networking software.
+* Contribute to carrier-grade distributed systems across multiple telecom product platforms.
+* Investigate and resolve production field issues using gdb, Linux logs, and system debugging tools.
+* Fixed critical concurrency-related defects impacting system stability.
+* Improved system observability through structured event logging, reducing log noise and improving fault traceability.
+
+### Research & Development Engineer Intern — Tejas Networks
+
+**Jan 2025 – July 2025 | Bengaluru, India**
+
+* Worked on Linux-based telecom access network software as part of a 15-engineer development team.
+* Automated 20+ complex network validation workflows using Python and internal automation frameworks.
+* Improved test coverage and accelerated release qualification across multiple hardware platforms.
+* Executed system validation across weekly releases and 7 hardware platforms using Spirent traffic generators.
+
+### Software Development Engineer Intern — Realty Experts Group
+
+**Mar 2024 – Dec 2024 | Remote**
+
+* Developed backend services for a production web platform.
+* Containerized services using Docker.
+* Built CI/CD pipelines using GitHub Actions.
+* Reduced deployment time from approximately one hour to fully automated Git push-based releases.
+* Managed VPS deployments using Nginx and SSL termination.
 
 ---
 
-## Projects
+## Featured Project
 
-**InLoop — Real-time Code Editor**  
-- Multi-user collaborative code editing system.
-- Implemented real-time synchronization using WebSockets and Socket.IO.
-- Focused on concurrency handling, state consistency, and low-latency updates.  
-Source: https://github.com/sachin3145/realtime-code-editor
+### TinyBroker — High-Performance Publish/Subscribe Message Broker
 
-**Simple File-Backed Entry Manager (C)**  
-- File-backed C application with in-memory operations and persistence.
-- Abstracted stdio and POSIX file I/O behind a common interface.
-- Designed modular components for storage and logging.  
-Source: https://github.com/sachin3145/file-handling
+A Linux-based publish-subscribe message broker written in modern C++.
+
+#### Features
+
+* Topic-based subscriptions
+* Concurrent publishers and subscribers
+* TCP socket communication
+* Custom wire protocol
+* Event-driven Reactor architecture using epoll
+* Performance benchmarking framework
+
+#### Engineering Highlights
+
+* Started with a thread-per-client architecture and later redesigned the networking layer around the Reactor pattern.
+* Implemented scalable event-driven I/O using epoll.
+* Built custom benchmarking tools for throughput, latency, and fan-out analysis.
+
+#### Results
+
+* 8.5× throughput improvement (14K → 119K messages/sec)
+* 6× latency reduction
+* Scaled to 1,000 concurrent subscribers
+* Achieved 325K+ messages/sec fan-out throughput
+
+**Repository:**
+https://github.com/sachin3145/tinybroker
 
 ---
 
 ## Education
 
-**University School of Information Communication & Technology (USICT), GGSIPU**  
-B.Tech — Computer Science and Engineering  
-GPA: 9.15 | 2021 – 2025
+### University School of Information, Communication & Technology (USICT)
+
+**Bachelor of Technology — Computer Science & Engineering**
+
+* GPA: 9.15/10
+* 2021 – 2025
 
 ---
 
-## Links
+## Connect
 
-- GitHub: https://github.com/sachin3145
-- LinkedIn: https://linkedin.com/in/sachin3145
-- Website: https://sachin3145.vercel.app
-- Email: sachiny8376@gmail.com
+* LinkedIn: https://linkedin.com/in/sachin3145
+* Email: [sachiny8376@gmail.com](mailto:sachiny8376@gmail.com)
